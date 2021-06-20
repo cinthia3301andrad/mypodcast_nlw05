@@ -1,7 +1,7 @@
 
 import styled from "styled-components";
 
-export const ContainerPlayer = styled.section`
+export const ContainerEpisode = styled.section`
   padding: 3rem 4rem;
   width: 26.5rem;
   height: auto;
