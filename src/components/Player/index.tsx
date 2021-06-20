@@ -67,7 +67,7 @@ export function Player() {
   }, [isPlaying]);
 
   return (
-    <ContainerPlayer>
+    <ContainerEpisode>
       <header>
         <img src="/playing1.svg" alt="tocando agora" />
         <strong>Tocando agora </strong>
@@ -172,6 +172,6 @@ export function Player() {
           </button>
         </div>
       </Footer>
-    </ContainerPlayer>
+    </ContainerEpisode>
   );
 }
