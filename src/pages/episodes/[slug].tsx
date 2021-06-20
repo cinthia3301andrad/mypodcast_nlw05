@@ -9,7 +9,7 @@ import { PlayerContext } from "../../contexts/PlayerContext";
 
 import { api } from "../../services/api";
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
-import { ContainerEpisode } from "../../components/styles";
+import { ContainerEpisode } from "../../components/Player/styles";
 
 type Episode = {
   id: string;
