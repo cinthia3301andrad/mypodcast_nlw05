@@ -6,7 +6,7 @@ import "rc-slider/assets/index.css";
 
 import { PlayerContext } from "../../contexts/PlayerContext";
 
-import { ContainerPlayer, EmptyPlayer, CurrentEpisode, Footer } from "./styles";
+import { ContainerEpisode, EmptyPlayer, CurrentEpisode, Footer } from "./styles";
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
 
 export function Player() {
