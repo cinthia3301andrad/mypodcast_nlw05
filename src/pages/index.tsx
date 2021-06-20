@@ -9,7 +9,7 @@ import ptBR from "date-fns/locale/pt-BR";
 import { api } from "../services/api";
 
 import { convertDurationToTimeString } from "../utils/convertDurationToTimeString";
-import { ContainerHome, LatestEpisodes, AllEpisodes } from "./stylesHome";
+import { ContainerHome, LatestEpisodes, AllEpisodes } from "../components/Styles/stylesHome";
 import { useContext } from "react";
 import { PlayerContext } from "../contexts/PlayerContext";
 
