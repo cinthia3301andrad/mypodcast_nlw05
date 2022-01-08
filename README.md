@@ -10,7 +10,7 @@
 ### 🛠 Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled-Component](https://styled-components.com/)
 - [NextJS](https://nextjs.org/)
 
