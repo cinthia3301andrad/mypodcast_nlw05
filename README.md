@@ -1,7 +1,7 @@
 
 <h1 align="center">Meu podCast</h1>
 <p align="center"> 
-<img src="https://github.com/cinthia3301andrad/mypodcast_nlw05/blob/main/public/aplication.png" align="center" width="15%"></img>
+<img src="https://github.com/cinthia3301andrad/mypodcast_nlw05/blob/main/public/aplication.png" align="center" width="30%"></img>
 </p>
 
 <p align="left">Esse projeto tem como objetivo simular um site de podCast - Feito na NLW 5 da Rocketseat</p>
